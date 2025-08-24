@@ -1,6 +1,8 @@
 # PicBook Community Web App
 A web platform for picture book enthusiasts to share, explore, and connect through illustrated stories. This project aims to promote engagement in the picture book community by providing a modern, interactive, and secure web experience.
 
+[**📊 View Project Presentation Slides**](docs/maz-presentation-slides-2024-06.pdf)
+
 # Project Overview
 Objective:
 * To build a picture book–themed community platform where users can:
