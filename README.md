@@ -1,4 +1,29 @@
-# macOS:
+# PicBook Community Web App
+A web platform for picture book enthusiasts to share, explore, and connect through illustrated stories. This project aims to promote engagement in the picture book community by providing a modern, interactive, and secure web experience.
+
+# Project Overview
+Objective:
+* To build a picture book–themed community platform where users can:
+  * Share and upload picture books.
+  * Explore curated collections with category and search features.
+  * Exchange ideas and reading experiences through interactive discussions.
+
+# Features
+* 🔑 User Management
+  * Register, login, update profile
+  * Delete account
+  * Forgot password with email verification
+* 📖 Picture Book Management
+  * Upload, browse, and delete picture books
+  * Built-in picture book viewer
+* 🔍 Explore & Discover
+  * Category & search filtering (by theme, year, author, language, etc.)
+* 💬 Community Interaction
+  * Comment section for sharing thoughts and experiences
+  * Users can edit or delete their comments
+
+# Installation:
+## macOS:
 
 #### Installing Node.js:
 
@@ -61,7 +86,7 @@ node server.js
 
 
 
-# Windows:
+## Windows:
 
 #### Installing Node.js:
 
